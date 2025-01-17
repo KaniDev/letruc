@@ -1,7 +1,6 @@
 import re
 from datetime import datetime
 
-# add imports for all the functions (they are all in the folder, under <function_name>.py)
 from decode_braille import decode_braille
 from decode_hex_message import decode_hex_message
 from decode_message import decode_message
