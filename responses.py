@@ -1,4 +1,5 @@
 import re
+import socket
 from datetime import datetime
 
 from decode_braille import decode_braille
